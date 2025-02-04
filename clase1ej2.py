@@ -7,4 +7,5 @@ total = valor1 + valor2 + valor3
 print(total)
 pago = int(input("ingrese con cuanto va a pagar: "))
 devuelta = pago - total 
-print(devuelta)
+print(f"Su devuelta es:", devuelta)
+
